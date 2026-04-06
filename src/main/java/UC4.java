@@ -1,4 +1,4 @@
-// UC4 - Display hello
+g// UC4 - Display hello
 
 public class UC4 {
 
